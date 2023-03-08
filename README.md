@@ -10,7 +10,6 @@ Eu sou o João Marcos, docente do curso de Front-end do programa Ford <Enter>, u
 
 <div style="display: inline_block"> <br>
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />   
+  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />  
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
