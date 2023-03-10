@@ -1,8 +1,8 @@
-### Hello, there!
+### Hello, there! 
 
-## Olá, mundo!
+<img src="https://static.wikia.nocookie.net/disneyemojiblitz/images/9/92/EmojiBlitzObi-WanKenobi1.png" height="50">
 
-Eu sou o João Marcos, docente do curso de Front-end do programa Ford Enter, uma parceria entre a Ford Brasil, Ford Fund e SENAI São Paulo.
+Eu sou o João Marcos, sou docente do curso de Front-end do programa Ford Enter, uma parceria entre a Ford Brasil, Ford Fund e SENAI São Paulo. Venha comigo nessa jornada para se tornar um Desenvolvedor Front-end e dar uma guinada na sua carreira.
 
 <br>
 <div>
