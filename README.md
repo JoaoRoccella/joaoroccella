@@ -1,8 +1,6 @@
-### Olá!
+### Hello, there!
 
 Eu sou o João Marcos, docente do curso de Front-end do programa Ford Enter, uma parceria entre a Ford Brasil, Ford Fund e SENAI São Paulo.
-
-<br>**ALTERAÇÃO**
 
 <br>
 <div>
